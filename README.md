@@ -1,4 +1,5 @@
-Sitio web creado utilizando el framework de Angular.
+Sitio web creado utilizando el framework de React.
+BACKEND// Node.Js
 
 Versión 0.0 Revisión 0
 
